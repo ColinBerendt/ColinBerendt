@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨🏼‍🎓 Computer Science Student at the University of St. Gallen 🇨🇭<br>💻 Interested in building HCI tools and currently working on a Human Pose Estimation Application<br>
-🎯Next Plans: Get into Game Development
+🎯Next Plans: Get into Game Development and improve/finish my Portfolio 
 
 
 ## 🌐 Socials:
